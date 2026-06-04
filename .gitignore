@@ -1,0 +1,10 @@
+ode*.pt
+*.pt
+__pycache__/
+watcher_state.json
+watcher.log
+FLAG_ALERT.txt
+.playwright-mcp/
+/poem.html
+/ode.html
+/arcus.html
